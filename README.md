@@ -8,6 +8,7 @@ A blank Challenge template for associates to create challenges from to improve t
  * Don't fork it, clone it, so you don't attach the git file to this repo.
 1. Create a new repo in [Corky's Dev Shop](https://github.com/corkysdevshop) for your challenge to live in. Replace the 'blank' in the title with the title of your challenge (ie. challenge_dataMigration)
  * Also, update this file's title.
+ * If you can't create a repo, it's because you either don't have a github account or you're not part of the team. Email corky@corkysdevshop.com for more information.
 1. Answer a couple of questions here:
  * What is the main goal of the challenge? What problem should be solved?
  * What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?
