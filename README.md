@@ -15,7 +15,7 @@ A blank Challenge template for associates to create challenges from to improve t
  * Were there any articles or resources that were particularly useful in accomplishing this challenge?
  * What were some of the things that you learned that you didn't know before?
  * If you were to give this challenge tags, what would they be?
-1. Include files in directory
+1. Include files in directory and modify this readme however you see fit.
 1. Upload challenge to newly created repository
 
 #### Ask in the slack channel if you have any questions
