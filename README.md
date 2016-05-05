@@ -25,4 +25,4 @@ A blank Challenge template for associates to create challenges from to improve t
  * `git add .` `git commit -m 'initial commit'` `git push origin master` as per usual
  * Congrats, your challenge is now live. Tell people in the slack channel or post a blog post
 
-#### Ask in the slack channel if you have any questions
+#### Ask in the slack channel if you have any questions. For more information on solving challenges visit the [Challenges Wiki](https://github.com/corkysdevshop/Admin/wiki/Challenges)
