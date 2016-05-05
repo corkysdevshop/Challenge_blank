@@ -3,25 +3,17 @@ A blank Challenge template for associates to create challenges from to improve t
 * This should be something that you either learn, struggled with, or found interesting.
 * Challenges are like assignments for people to practice their skills.
 
-## Steps to make new challenge
+## Steps to make a new challenge
 1. Clone this repo using `git clone https://github.com/corkysdevshop/Challenge_blank.git` to create new challenges for others to complete.
  * Don't fork it, clone it, so you don't attach the git file to this repo.
-
 1. Answer a couple of questions here:
  * What is the main goal of the challenge? What problem should be solved?
-
  * What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?
-
  * What's the context of this challenge? Describe what you should already know to try this challenge. What general approach should be taken?
-
  * Were there any articles or resources that were particularly useful in accomplishing this challenge?
-
  * What were some of the things that you learned that you didn't know before?
-
  * If you were to give this challenge tags, what would they be?
-
 1. Include project files in this directory and modify this readme however you see fit.
-
 1. Upload challenge to Corky's repository
  *  Create a new repo online in [Corky's Dev Shop](https://github.com/corkysdevshop) for your challenge to live in. If you can't create a repo, it's because you either don't have a github account or you're not part of the team. Email corky@corkysdevshop.com for more information.
    - [ ] Name it 'challenge_*name*' in the title with the title of your challenge (ie. challenge_dataMigration)
@@ -32,6 +24,5 @@ A blank Challenge template for associates to create challenges from to improve t
  * navigate to the root of your local directory and `git init` then `git remote add origin path` where you replace path with the url of the remote repository
  * `git add .` `git commit -m 'initial commit'` `git push origin master` as per usual
  * Congrats, your challenge is now live. Tell people in the slack channel or post a blog post
-
 
 #### Ask in the slack channel if you have any questions
