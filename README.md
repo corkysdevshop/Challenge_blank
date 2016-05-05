@@ -12,6 +12,7 @@ A blank Challenge template for associates to create challenges from to improve t
 1. Answer a couple of questions here:
  * What is the main goal of the challenge? What problem should be solved?
  * What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?
+ - [ ] example sub-goal
  * What's the context of this challenge? Describe what you should already know to try this challenge.
  * Were there any articles or resources that were particularly useful in accomplishing this challenge?
  * What were some of the things that you learned that you didn't know before?
