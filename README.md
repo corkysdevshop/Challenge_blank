@@ -22,7 +22,9 @@ A blank Challenge template for associates to create challenges from to improve t
    - [ ] Press 'Create repository'
    - [ ] Update this file's title to match the title of the repository you just created
  * navigate to the root of your local directory and `git init` then `git remote add origin path` where you replace path with the url of the remote repository
- * `git add .` `git commit -m 'initial commit'` `git push origin master` as per usual
+ * `git add .`
+ * `git commit -m 'initial commit'`
+ * `git push origin master` 
  * Congrats, your challenge is now live. Tell people in the slack channel or post a blog post
 
 #### Ask in the slack channel if you have any questions. For more information on solving challenges visit the [Challenges Wiki](https://github.com/corkysdevshop/Admin/wiki/Challenges)
