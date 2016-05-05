@@ -7,12 +7,16 @@ A blank Challenge template for associates to create challenges from to improve t
 1. Clone this repo using `git clone https://github.com/corkysdevshop/Challenge_blank.git` to create new challenges for others to complete.
  * Don't fork it, clone it, so you don't attach the git file to this repo.
 1. Answer a couple of questions here:
- * What is the main goal of the challenge? What problem should be solved?
- * What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?
- * What's the context of this challenge? Describe what you should already know to try this challenge. What general approach should be taken?
- * Were there any articles or resources that were particularly useful in accomplishing this challenge?
- * What were some of the things that you learned that you didn't know before?
- * If you were to give this challenge tags, what would they be?
+1. Clone this repo using `git clone https://github.com/corkysdevshop/Challenge_blank.git` to create new challenges for others to complete.
+ * Don't fork it, clone it, so you don't attach the git file to this repo.
+1. Answer a couple of questions here:
+ * *What is the main goal of the challenge? What problem should be solved?* <br />**Answer Here**<br />
+ * *What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?* <br />**Answer Here**<br />
+ * *What's the context of this challenge? Describe what you should already know to try this challenge. What general approach should be taken?*  <br />**Answer Here**<br />
+ * *Were there any articles or resources that were particularly useful in accomplishing this challenge?*<br />**Answer Here**<br />
+ * *What were some of the things that you learned that you didn't know before?*<br />**Answer Here**<br />
+ * *If you were to give this challenge tags, what would they be?*<br />**Answer Here**<br />
+
 1. Include project files in this directory and modify this readme however you see fit.
 1. Upload challenge to Corky's repository
  *  Create a new repo online in [Corky's Dev Shop](https://github.com/corkysdevshop) for your challenge to live in. If you can't create a repo, it's because you either don't have a github account or you're not part of the team. Email corky@corkysdevshop.com for more information.
@@ -21,10 +25,10 @@ A blank Challenge template for associates to create challenges from to improve t
    - [ ] Add tags that you listed above to the description field
    - [ ] Press 'Create repository'
    - [ ] Update this file's title to match the title of the repository you just created
- * navigate to the root of your local directory and `git init` then `git remote add origin path` where you replace path with the url of the remote repository
+ * navigate to the root of your local directory and `git init` then `git remote add origin path` where you replace path with the url of the remote repository. If you're unsure if it worked you can run `git remote -v` to list the remote branches.
  * `git add .`
  * `git commit -m 'initial commit'`
- * `git push origin master` 
+ * `git push origin master`
  * Congrats, your challenge is now live. Tell people in the slack channel or post a blog post
 
 #### Ask in the slack channel if you have any questions. For more information on solving challenges visit the [Challenges Wiki](https://github.com/corkysdevshop/Admin/wiki/Challenges)
